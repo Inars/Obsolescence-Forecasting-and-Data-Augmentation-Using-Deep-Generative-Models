@@ -1,0 +1,11 @@
+{
+    "columns": {
+        "x1": {
+            "sdtype": "numerical"
+        },
+        "x2": {
+            "sdtype": "numerical"
+        }
+    },
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1"
+}
